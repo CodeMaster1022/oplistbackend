@@ -1,0 +1,46 @@
+[
+  {
+    "id": 1,
+    "plantId": 1,
+    "name": "Operations",
+    "subAreas": [
+      {
+        "id": 1,
+        "name": "Reception"
+      },
+      {
+        "id": 2,
+        "name": "Valet Parking"
+      }
+    ],
+    "roles": [
+      "Hosts",
+      "Receptionists",
+      "Valet Staff"
+    ],
+    "createdAt": "2025-11-27T19:32:51.149Z",
+    "updatedAt": "2025-11-27T19:32:51.149Z"
+  },
+  {
+    "id": 2,
+    "plantId": 1,
+    "name": "Kitchen",
+    "subAreas": [
+      {
+        "id": 3,
+        "name": "Hot Kitchen"
+      },
+      {
+        "id": 4,
+        "name": "Cold Kitchen"
+      }
+    ],
+    "roles": [
+      "Chef",
+      "Sous Chef",
+      "Line Cook"
+    ],
+    "createdAt": "2025-11-27T19:32:51.149Z",
+    "updatedAt": "2025-11-27T19:32:51.149Z"
+  }
+]

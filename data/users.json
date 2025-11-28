@@ -1,0 +1,43 @@
+[
+  {
+    "id": 1,
+    "email": "admin@restaurant.com",
+    "password": "$2a$10$G5oYX6pOfEiL9V3l/sbV1ekhh9JsPnBOT2Uyasb/FhY1tyRrEXBmC",
+    "name": "Admin User",
+    "role": "admin",
+    "phone": "+1 (555) 000-0001",
+    "compliance": 0,
+    "createdAt": "2025-11-27T19:32:50.941Z",
+    "updatedAt": "2025-11-27T19:32:50.942Z"
+  },
+  {
+    "id": 2,
+    "email": "john.smith@restaurant.com",
+    "password": "$2a$10$ie.QXQBi.JsRHWLBpXWOuea.epHqsPgsgLToya6l9fNNGXoCuSn/W",
+    "name": "John Smith",
+    "role": "user",
+    "phone": "+1 (555) 123-4567",
+    "lane": "Operations",
+    "subArea": "Reception",
+    "roleName": "Hosts",
+    "plantId": 1,
+    "compliance": 92,
+    "createdAt": "2025-11-27T19:32:51.043Z",
+    "updatedAt": "2025-11-27T19:32:51.043Z"
+  },
+  {
+    "id": 3,
+    "email": "jane.doe@restaurant.com",
+    "password": "$2a$10$FrkGV8MBPS0WyzTNf9FjMuRkPbJ7M3w8qtcFXMf0.mMOS3bHXmVZy",
+    "name": "Jane Doe",
+    "role": "user",
+    "phone": "+1 (555) 234-5678",
+    "lane": "Kitchen",
+    "subArea": "Hot Kitchen",
+    "roleName": "Chef",
+    "plantId": 1,
+    "compliance": 88,
+    "createdAt": "2025-11-27T19:32:51.146Z",
+    "updatedAt": "2025-11-27T19:32:51.146Z"
+  }
+]
